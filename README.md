@@ -3,7 +3,7 @@
 A clean, responsive, and pixel-perfect 8x8 chessboard layout created using pure HTML5 semantic tags and modern CSS Flexbox layout techniques.
 
 ## 🚀 Live Demo
-*(Optional: Add your GitHub Pages link here if you host it later!)*
+https://chessboard-rust.vercel.app/
 
 ## 🛠️ Tech Stack Used
 * **HTML5:** Structured semantic markup using `<main>` and container elements.
