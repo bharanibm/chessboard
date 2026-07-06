@@ -11,7 +11,7 @@ https://chessboard-rust.vercel.app/
 
 ## 📁 File Structure
 ```text
-├── chess.html   # Main HTML structural file
+├── index.html   # Main HTML structural file
 ├── chess.css    # Layout and design rules
 └── README.md    # Documentation file
 ```
